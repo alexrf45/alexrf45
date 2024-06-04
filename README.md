@@ -5,7 +5,7 @@
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/alexrf45/lab">
 
 
-- 🔭 I’m currently working on [lab](https://github.com/alexrf45/lab)
+- 🔭 I maintain code snippets and configs I use in my home lab in my [lab](https://github.com/alexrf45/lab) repo 
 
 - 🌱 I’m currently learning **Kubernetes, Cloud-Init, Ansible**
 
