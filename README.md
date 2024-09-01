@@ -7,13 +7,13 @@
 
 - 🔭 I maintain code snippets and configs I use in my home lab in my [lab](https://github.com/alexrf45/lab) repo 
 
-- 🌱 I’m currently learning **Kubernetes, Cloud-Init, Ansible**
+- 🌱 I’m currently learning **Kubernetes, Python**
 
 - 👨‍💻 All of my projects are available at [https://fr3d.dev](https://fr3d.dev)
 
 - 📝 I regularly write articles on [https://fr3d.dev](https://fr3d.dev)
 
-- 💬 Ask me about **Terraform, AWS, Docker**
+- 💬 Ask me about **Kubernetes, Terraform, AWS, Docker**
 
 - 📫 How to reach me **devtalk@f0nzy.com**
 
