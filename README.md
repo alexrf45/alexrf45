@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Kubernetes, Python**
 
-- 👨‍💻 All of my projects are available at [https://fr3d.dev](https://fr3d.dev)
+- 👨‍💻 All of my projects are available at [https://blog.fr3d.dev](https://blog.fr3d.dev)
 
-- 📝 I regularly write articles on [https://fr3d.dev](https://fr3d.dev)
+- 📝 I will be regularly write poems and freeform pieces on [https://writing.fr3d.dev](https://writing.fr3d.dev) EST Spring 2025
 
 - 💬 Ask me about **Kubernetes, Terraform, AWS, Docker**
 
-- 📫 How to reach me **devtalk@f0nzy.com**
+- 📫 How to reach me **devtalk@fred.dev**
 
-- ⚡ Fun fact **I've sung the national anthem in front of people twice in my life**
+- ⚡ Fun fact: **I've sung the national anthem in front of people twice in my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
