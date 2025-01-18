@@ -1,31 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">DoD Security Professional, Cloud Native advocate</h3>
+<h1 align="left">Howdy👋! I'm Sean, A cloud native advocate and cybersecurity leader</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrf45&label=Profile%20views&color=0e75b6&style=flat" alt="alexrf45" /> </p>
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/alexrf45/lab">
+###
 
+<div align="center">
+  <a href="https://www.youtube.com/@_fr3d_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=_fr3d_&logo=youtube&label=&color=FF0000&logoColor=black&labelColor=&style=flat" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/._.fr3d._." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=._.fr3d._.&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  </a>
+  <a href="www.linkedin.com/in/seanfontaine" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=seanfontaine&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 🔭 I maintain code snippets and configs I use in my home lab in my [lab](https://github.com/alexrf45/lab) repo 
+###
 
-- 🌱 I’m currently learning **Kubernetes, Python**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="76" alt="kubernetes logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg" height="76" alt="k3s logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="76" alt="terraform logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=aws" height="76" alt="amazonwebservices logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=vim" height="76" alt="vim logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=git" height="76" alt="git logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=docker" height="76" alt="docker logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="76" alt="cloudflare logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=py" height="76" alt="python logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="76" alt="argocd logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="76" alt="bash logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="76" alt="prometheus logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=linux" height="76" alt="linux logo"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://blog.fr3d.dev](https://blog.fr3d.dev)
+###
 
-- 📝 I will be regularly write poems and freeform pieces on [https://writing.fr3d.dev](https://writing.fr3d.dev) EST Spring 2025
-
-- 💬 Ask me about **Kubernetes, Terraform, AWS, Docker**
-
-- 📫 How to reach me **devtalk@fred.dev**
-
-- ⚡ Fun fact: **I've sung the national anthem in front of people twice in my life**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/seanfontaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seanfontaine" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexrf45&show_icons=true&locale=en" alt="alexrf45" /></p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexrf45&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrf45&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=alexrf45&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+</div>
