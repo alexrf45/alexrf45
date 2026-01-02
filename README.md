@@ -1,4 +1,4 @@
-<h1 align="left">Howdy👋! I'm Sean, A cloud native advocate and cybersecurity leader</h1>
+<h1 align="left">Hi👋 I'm Sean, A cloud native security advocate</h1>
 
 ###
 
