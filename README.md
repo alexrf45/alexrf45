@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋 I'm Sean, A cloud native security advocate</h1>
+<h1 align="center">Hi👋 I'm Sean, a cloud native security advocate and writer </h1>
 
 ###
 
@@ -46,8 +46,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexrf45&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrf45&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=alexrf45&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-</div>
+
